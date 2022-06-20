@@ -1,0 +1,73 @@
+/*--
+/*  2.3 - Blockquote CSS
+/*----------------------------------------*/
+
+// Blockquote 
+.blockquote {
+    position: relative;
+    margin-bottom: 0;
+
+    & p {
+        font-size: 36px;
+        color: $white !important;
+
+        @media #{$tablet-device}{
+            font-size: 22px;
+        }
+        @media #{$large-mobile}{
+            font-size: 20px;
+
+            & br{
+                display: none;
+            }
+        }
+
+        @media #{$small-mobile}{
+            font-size: 18px;
+        }
+    }
+}
+
+
+// Blockquote
+.blockquote-2{
+    position: relative;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    
+    & p {
+        position: relative;
+        color: $white !important;
+        font-size: 24px !important;
+        font-weight: 400;
+        line-height: 1.6;
+        padding-left: 100px;
+        border-left: 5px solid $primary;
+        font-family: $headings-font-family;
+
+        @media #{$large-mobile}{
+            font-size: 20px !important;
+        }
+        @media #{$small-mobile}{
+            font-size: 18px !important;
+            padding-left: 40px;
+
+            & br{
+                display: none;
+            }
+        }
+    }
+    & .author-name {
+        position: relative;
+        color: $white;
+        font-size: 14px;
+        font-weight: 400;
+        padding-left: 100px;
+        text-transform: uppercase;
+
+        @media #{$small-mobile}{
+            padding-left: 40px;
+        }
+    }
+}
+

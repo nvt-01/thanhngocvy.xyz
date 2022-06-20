@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/project/project-1.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "Figma Free UI Kit",
+        "categories": ["Web/App", "Branding"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "AZA Social App",
+        "categories": ["mobile app", "Web/App"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/project/project-3.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "Allen Carter Business Card",
+        "categories": ["motion", "Branding"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/project/project-4.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "CBD Gummies",
+        "categories": ["Web/App", "Branding"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "images/project/project-5.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "THINK Rebrand",
+        "categories": ["mobile app", "Web/App"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "media": {
+            "thumb": "./images/project/project-6.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "Allen Carter Business Card",
+        "categories": ["motion", "Branding"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "media": {
+            "thumb": "./images/project/project-7.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "B&OPlay Headphone",
+        "categories": ["Web/App", "Branding"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "media": {
+            "thumb": "./images/project/project-8.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "Nordic Interior Studio",
+        "categories": ["mobile app", "Web/App"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br /> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "media": {
+            "thumb": "./images/project/project-9.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "Allen Carter Business Card",
+        "categories": ["motion", "Branding"],
+        "challenge": "Poland ATA Finance <br /> Banking",
+        "date": "March 25, 2024",
+        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
+        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
+        "name": "Adam Levine",
+        "designation": "Director of Poland ATA Finance Banking",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        }
+    }
+]

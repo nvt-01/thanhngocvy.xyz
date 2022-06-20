@@ -1,0 +1,31 @@
+
+/*--
+/*  2.1 - Button CSS	
+/*----------------------------------------*/
+
+.btn {    
+
+    @media #{$large-mobile}{
+        
+    }
+
+    &:focus {
+        box-shadow: none;
+    }
+}
+
+// @each $name, $value in $theme-colors {
+//     & .btn-hover-#{$name} {
+//         &:hover {
+//             border-color: $value;
+//             background-color: $value;
+//             @if $name == light {
+//                 color: $dark;
+//             } @else if $name == warning {
+//                 color: $dark;
+//             } @else {
+//                 color: $white;
+//             }
+//         }
+//     }
+// }

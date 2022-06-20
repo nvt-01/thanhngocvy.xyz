@@ -1,0 +1,280 @@
+/*--
+/*  4.1 - Slider CSS
+/*----------------------------------------*/
+
+// Slider Section 
+.slider-section{
+    position: relative;   
+
+    & .social{
+        position: absolute;
+        bottom: 70px;
+        left: 70px;
+        display: flex;
+        z-index: 6;
+
+        @media #{$laptop-device, $desktop-device, $tablet-device, $large-mobile}{
+            left: 40px;
+            bottom: 40px;
+        }
+        @media #{$small-mobile}{
+            left: 20px;
+            bottom: 20px;
+        }
+
+        & li{
+            & + li{
+                margin-left: 45px;
+
+                @media #{$large-mobile}{
+                    margin-left: 30px;
+                }
+
+                @media #{$small-mobile}{
+                    margin-left: 20px;
+                }
+            }
+            & a{
+                font-size: 24px;
+                color: $white;
+                transition: $transition-base;
+
+                @media #{$large-mobile}{
+                    font-size: 20px;
+                }
+
+                @media #{$small-mobile}{
+                    font-size: 18px;
+                }
+
+                &:hover{
+                    color: $primary;
+                }
+            }
+        }
+    }
+}
+
+// Single Slider 
+.single-slider{
+    height: 820px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 3;
+
+    @media #{$extraBig-device}{
+        height: 965px;
+    }
+
+    @media #{$large-mobile}{
+        height: 720px;
+    }
+    @media #{$small-mobile}{
+        height: 680px;
+    }
+
+    & .line{
+        width: 1px;
+        height: 100%;
+        background-color: $white;
+        position: absolute;
+        top: 0;
+        z-index: -2;
+        display: block;
+        opacity: 0.15;
+
+        &:nth-of-type(1){
+            left: 25%;
+        }
+        &:nth-of-type(2){
+            left: 50%;
+        }
+        &:nth-of-type(3){
+            left: 75%;
+        }
+    }
+    &::before{
+        position: absolute;
+        content: '';
+        background: $black;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        opacity: 0.3;
+    }
+}
+
+// Slider Content 
+.slider-content{
+    opacity: 0;
+
+    & .sub-title{
+        font-size: 24px;
+        font-family: $font-family-base;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: $white;
+
+        @media #{$laptop-device, $desktop-device, $tablet-device}{
+            font-size: 20px;
+        }
+        @media #{$large-mobile}{
+            font-size: 18px;
+        }
+        @media #{$small-mobile}{
+            font-size: 16px;
+        }
+    }
+    & .main-title{
+        font-size: 130px;
+        font-weight: 700;
+        color: $white;
+        line-height: 1;
+        margin-top: 53px;
+
+        @media #{$laptop-device, $desktop-device}{
+            font-size: 100px;
+            margin-top: 43px;
+        }
+
+        @media #{$tablet-device}{
+            font-size: 80px;
+            margin-top: 43px;
+        }
+
+        @media #{$large-mobile}{
+            font-size: 70px;
+            margin-top: 33px;
+        }
+
+        @media #{$small-mobile}{
+            font-size: 40px;
+        }
+    }
+    & p{
+        font-size: 18px;
+        font-family: $custom-font-family;
+        color: $white;
+        margin-top: 50px;
+        margin-bottom: 75px;
+
+        @media #{$laptop-device, $desktop-device, $tablet-device}{
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        @media #{$large-mobile}{
+            margin: 30px 0;
+        }
+        @media #{$small-mobile}{
+            font-size: 16px;
+        }
+    }
+    & .slider-btn{
+        font-size: 24px;
+        font-weight: 700;
+        font-family: $headings-font-family;
+        color: $white;
+        text-transform: uppercase;
+        text-decoration: underline;
+        transition: $transition-base;
+
+        @media #{$laptop-device, $desktop-device, $tablet-device, $large-mobile}{
+            font-size: 20px;
+        }
+        @media #{$small-mobile}{
+            font-size: 18px;
+        }
+
+        &:hover{
+            color: $primary;
+        }
+    }
+}
+
+// Slider Active 
+.slider-active{
+    & .swiper-button-next,
+    & .swiper-button-prev{
+        top: auto;
+        bottom: 55px;
+        left: auto;
+        right: 70px;
+
+        @media #{$tablet-device, $large-mobile}{
+            bottom: 35px;
+            right: 40px;
+        }
+        @media #{$small-mobile}{
+            bottom: 15px;
+            right: 20px;
+        }
+
+        &::after{
+            display: none;
+        }
+
+        & i{
+            font-size: 60px;
+            color: $white;
+            line-height: 1;
+
+            @media #{$large-mobile}{
+                font-size: 40px;
+            }
+            @media #{$small-mobile}{
+                font-size: 30px;
+            }
+        }
+    }
+
+    & .swiper-button-prev{
+        right: 177px;
+
+        @media #{$tablet-device, $large-mobile}{
+            right: 110px;
+
+            @media #{$small-mobile}{
+                right: 60px;
+            }
+        }
+    }
+}
+
+// Single Slider Animation
+.swiper-slide-active{
+    .animation-style-01{
+        & .slider-content{
+            opacity: 1;
+
+            & .sub-title{
+                animation-name: fadeInUp;
+                animation-delay: 0.5s;
+                animation-duration: 1.3s;
+                animation-fill-mode: both;
+                
+            }
+            & .main-title{
+                animation-name: fadeInUp;
+                animation-delay: 1s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+            & p{
+                animation-name: fadeInUp;
+                animation-delay: 1.5s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+            & .slider-btn{
+                animation-name: fadeInLeft;
+                animation-delay: 2s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+        }
+    }
+}

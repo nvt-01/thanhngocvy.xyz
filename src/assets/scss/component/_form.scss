@@ -1,0 +1,64 @@
+
+/*--
+/*  2.2 - Form CSS	
+/*----------------------------------------*/
+
+// Single Form 
+.single-form{
+    margin-top: 30px;
+
+    & input,
+    & textarea{
+        width: 100%;
+        border: 0;
+        background: none;
+        border-bottom: 1px solid rgba($white, 0.15);
+        font-size: 16px;
+        color: rgba($white, 0.5);
+        padding: 15px 0;
+        outline: none;
+        transition: $transition-base;
+
+        @include placeholder{
+            opacity: 1;
+        }
+
+        &:focus{
+            border-color: $white;
+        }
+    }
+    & textarea{
+        height: 150px;
+        resize: none;
+    }
+    p{
+        color: #bf1650;
+    }
+}
+
+// Form btn
+.form-btn{
+    padding-top: 30px;
+
+    & button{
+        font-size: 20px;
+        font-weight: 700;
+        font-family: $headings-font-family;
+        color: $white;
+        text-transform: uppercase;
+        text-decoration: underline;
+        transition: $transition-base;
+        background: none;
+        border: 0;
+        padding: 0;
+
+        @media #{$laptop-device, $desktop-device, $tablet-device, $large-mobile}{
+            font-size: 18px;
+        }
+
+        &:hover{
+            color: $primary;
+        }
+    }
+}
+

@@ -1,0 +1,100 @@
+/*--
+/*  4.9 - Projects CSS
+/*----------------------------------------*/
+
+
+// Project Section 
+.project-section{}
+
+// Single Project 
+.single-project{
+    margin-top: 80px;
+
+    & .project-images{
+        overflow: hidden;
+
+        & a{
+            display: block;
+            position: relative;
+
+            & img{
+                width: 100%;
+                transition: $transition-base;
+            }
+
+            &::before{
+                position: absolute;
+                content: '';
+                background: $black;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 1;
+                opacity: 0;
+                visibility: hidden;
+                transition: $transition-base;
+            }
+        }
+
+        
+    }
+    & .project-content{
+        background-color: $dark;
+        padding: 20px 35px 35px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        @media #{$tablet-device, $small-mobile}{
+            display: block;
+            padding: 10px 25px 25px;
+        }
+
+        & .title{
+            & a{
+                font-size: 24px;
+                font-weight: 700;
+                color: $white;
+                transition: $transition-base;
+                margin-top: 8px;
+                display: block;
+
+                @media #{$tablet-device, $small-mobile}{
+                    font-size: 20px;
+                }
+
+                &:hover{
+                    color: $primary;
+                }
+            }
+        }
+        & .category{
+            font-size: 16px;
+            font-family: $custom-font-family;
+            margin-top: 8px;
+            white-space: nowrap;
+
+            @media #{$tablet-device, $small-mobile}{
+                font-size: 14px;
+            }
+        }
+    }
+
+    &:hover{
+        & .project-images{
+            & a{    
+                & img{
+                    transform: scale(1.05) rotate(1deg);
+                }
+
+                &::before{
+                    opacity: 0.35;
+                    visibility: visible;
+                }
+            }
+        }
+    }
+}
+
+

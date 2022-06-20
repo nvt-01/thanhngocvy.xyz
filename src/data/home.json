@@ -1,0 +1,147 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "./images/clients/client-1.png"
+            },
+            {
+                "id": 2,
+                "image": "./images/clients/client-2.png"
+            },
+            {
+                "id": 3,
+                "image": "./images/clients/client-3.png"
+            },
+            {
+                "id": 4,
+                "image": "./images/clients/client-4.png"
+            },
+            {
+                "id": 5,
+                "image": "./images/clients/client-5.png"
+            }
+        ]
+    },
+    {
+        "iconBox": [
+            {
+                "id": "1",
+                "icon": "icofont-labour",
+                "title": "profressional and dedicate team",
+                "excerpt": "Building architectures with modern technology."
+            },
+            {
+                "id": "2",
+                "icon": "icofont-ruler-compass-alt",
+                "title": "unique design",
+                "excerpt": "Bring the beautifully for your house. Just enjoy!."
+            },
+            {
+                "id": "3",
+                "icon": "icofont-credit-card",
+                "title": "affordable and flexiable",
+                "excerpt": "ring nature in your house. Health is important"
+            },
+            {
+                "id": "4",
+                "icon": "icofont-live-support",
+                "title": "24/7 support",
+                "excerpt": "Consulting solutions and make plan to renovation"
+            }
+        ]
+    },
+    {
+        "funfact": [
+            {
+                "id": 1,
+                "number": 8000,
+                "title": "Partner <br /> worldwide"
+            },
+            {
+                "id": 2,
+                "number": 1250,
+                "title": "employees and <br /> staffs"
+            },
+            {
+                "id": 3,
+                "number": 904,
+                "title": "project completed <br /> on 60 countries"
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "icon": "icofont-quote-right",
+                "name": "Ryan Betthalyn",
+                "designation": "Director at Chobham Manor",
+                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-quote-right",
+                "name": "Bobs Hanely",
+                "designation": "Director at Spotify",
+                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-paper-plane",
+                "title": "Personal",
+                "price": "<sup>$</sup>9.99<span>/ month</span>",
+                "pricingList": ["Custome Domains", "Sleep after 30 mins of <br /> activity"]
+            },
+            {
+                "id": 2,
+                "badgeType": "true",
+                "badge": "popular",
+                "icon": "icon-plane",
+                "title": "small team",
+                "price": "<sup>$</sup>49.99<span>/ month</span>",
+                "pricingList": ["never sleeps", "multiple workers for more <br /> powerful apps"]
+            },
+            {
+                "id": 3,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-rocket",
+                "title": "enterprise",
+                "price": "<sup>$</sup>99.99<span>/ month</span>",
+                "pricingList": ["dedicated", "simple horizontal <br /> scalability"]
+            }
+        ]
+    }
+]

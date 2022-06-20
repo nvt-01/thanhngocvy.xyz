@@ -1,0 +1,45 @@
+[
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2020",
+        "yearTwo": "2019",
+        "awardItem": [
+            {
+                "id": 1,
+                "className": "text-primary",
+                "cate": "Awwwards",
+                "title": "Site Of The Years for <span>Norda Landing Site</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-danger",
+                "cate": "CSS Design Award",
+                "title": "Honorable Mention for <span>Barbero Stream Music App</span>"
+            },
+            {
+                "id": 3,
+                "className": "text-success",
+                "cate": "Product Hunt Maker",
+                "title": "Gold In Digital Craft for <span>Uthr</span>"
+            },
+            {
+                "id": 4,
+                "className": "text-white",
+                "cate": "Fwa",
+                "title": "Coporate Social Responsiblity for <span>Unore</span>"
+            },
+            {
+                "id": 5,
+                "className": "text-warning",
+                "cate": "Semplice",
+                "title": "Best Showcase for <span>Nordic</span>"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hallo!</span> I am Nordan, <br> Interactive Developer based <br> in Ukraine.",
+        "excerpt": "See bits and pieces of his design work and prototyping on"
+    }
+]

@@ -1,0 +1,71 @@
+/*--
+/*  4.11 - Blog CSS
+/*----------------------------------------*/
+
+
+.single-blog{
+    margin-top: 80px;
+
+    & .blog-images{
+        & a{
+            display: block;
+
+            & img{
+                width: 100%;
+            }
+        }
+    }
+    & .blog-content{
+        padding-top: 25px;
+
+        & .meta{
+            display: flex;
+
+            & li{
+                position: relative;
+
+                & + li{
+                    &::before{
+                        content: '/';
+                        color: #333333;
+                        margin: 0 15px;
+                        font-size: 13px;
+                    }
+                }
+                & a{
+                    font-size: 13px;
+                    color: #999;
+                    text-transform: uppercase;
+                    transition: $transition-base;
+
+                    &:hover{
+                        color: #f89200;
+                    }
+                }
+            }
+        }
+        & .title{
+            & a{
+                font-size: 30px;
+                font-weight: 700;
+                color: $white;
+                margin-top: 15px;
+                display: inline-block;
+                transition: $transition-base;
+
+                @media #{$small-mobile}{
+                    font-size: 24px;
+                }
+
+                &:hover{
+                    color: $primary;
+                }
+            }
+        }
+        & p{
+            margin-top: 15px;
+        }
+    }
+}
+
+

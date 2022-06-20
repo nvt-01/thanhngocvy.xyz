@@ -1,0 +1,50 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Andle - Bootstrap 5 HTML Template
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    01. Theme default CSS
+	02. Component CSS
+		2.1 - Button CSS
+		2.2 - Form CSS
+		2.3 - Blockquote CSS
+	03. Header CSS
+		3.1 - Header Main CSS
+	04. Pages CSS (All Page Styles)
+		4.1 - Slider CSS
+		4.2 - Clients & About CSS
+		4.3 - Why Choose & Counter CSS
+		4.4 - Work CSS
+		4.5 - Achieved CSS
+		4.6 - Testimonial CSS
+		4.7 - Skills CSS
+		4.8 - Pricing CSS
+		4.9 - Projects CSS
+		4.10 - Projects Details CSS
+		4.11 - Blog CSS
+		4.12 - Blog Details CSS
+		4.13 - Contact CSS
+		4.14 - FAQ's CSS
+	05. Widget CSS
+		5.1 - Sidebar Widget CSS
+		5.2 - Footer Widget CSS
+	07. Footer CSS
+
+-----------------------------------------------------------------------------------*/
+@import "./bootstrap/functions";
+@import "variabls";
+@import "./bootstrap/bootstrap";
+
+@import "common";
+@import "component";
+@import "header";
+@import "page";
+@import "widget";
+@import "footer";
+
+

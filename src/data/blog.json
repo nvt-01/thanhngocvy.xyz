@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "className": "col-lg-6",
+        "media": {
+            "thumb": "./images/blog/blog-1.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "Owen Christ",
+        "date": "April 25th, 2021",
+        "categories": ["news", "inspiration"],
+        "title": "Standard article with image format",
+        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    },
+    {
+        "id": 2,
+        "className": "col-lg-6",
+        "media": {
+            "thumb": "./images/blog/blog-2.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "admin",
+        "date": "May 24th, 2021",
+        "categories": ["experience", "inspiration"],
+        "title": "How your sales can work together in account-based marketing",
+        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    },
+    {
+        "id": 3,
+        "className": "col-lg-6",
+        "media": {
+            "thumb": "./images/blog/blog-3.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "admin",
+        "date": "July 15th, 2021",
+        "categories": ["community", "experience"],
+        "title": "The Desolate Beauty  of Greenland",
+        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    },
+    {
+        "id": 4,
+        "className": "col-lg-6",
+        "media": {
+            "thumb": "./images/blog/blog-4.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "Owen Christ",
+        "date": "June 25th, 2024",
+        "categories": ["inspiration", "community"],
+        "title": "The Photographer Platform",
+        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    },
+    {
+        "id": 5,
+        "className": "col-lg-6",
+        "media": {
+            "thumb": "./images/blog/blog-5.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "admin",
+        "date": "April 25th, 2021",
+        "categories": ["news", "experience"],
+        "title": "Tellus Adipiscing Nibh Mattis",
+        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    },
+    {
+        "id": 6,
+        "className": "col-lg-6",
+        "media": {
+            "thumb": "./images/blog/blog-6.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "admin",
+        "date": "June 25th, 2024",
+        "categories": ["experience", "inspiration"],
+        "title": "Tellus Vulputate Fermentum Dolor",
+        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    },
+    {
+        "id": 7,
+        "className": "col-lg-12",
+        "media": {
+            "thumb": "./images/blog/blog-7.jpg",
+            "largeImage": "./images/blog/blog-details.jpg"
+        },
+        "author": "Owen Christ",
+        "date": "July 15th, 2021",
+        "categories": ["community", "inspiration"],
+        "title": "Fusce Mattis Euismod Ridiculus Tortor",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate..",
+        "body": ["<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>", "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>", "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>", "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"],
+        "tags": ["Inspiration", "Workspace", "Minimal", "Decoation"]
+    }
+]

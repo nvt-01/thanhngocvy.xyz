@@ -1,0 +1,198 @@
+/*--
+/*  4.3 - Why Choose & Counter CSS
+/*----------------------------------------*/
+
+
+// Why Choose
+.why-choose-wrapper{
+    padding-top: 65px;
+    padding-bottom: 100px;
+
+    @media #{$tablet-device}{
+        padding-bottom: 80px;
+    }
+    @media #{$large-mobile}{
+        padding-bottom: 60px;
+    }
+
+    & .row{
+        & .col{
+            & .service-box{
+                margin-left: -1px;
+
+                @media #{$small-mobile}{
+                    margin-left: 0;
+                    margin-top: -1px;
+                }
+            }
+        }
+    }
+}
+
+// Service Box 
+.service-box{
+    background-color: $dark;
+    transition: $transition-base;
+    padding: 30px;
+    border: 1px solid #313131;
+    min-height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    z-index: 2;
+
+    @media #{$desktop-device}{
+        padding: 25px;
+    }
+
+    &::before{
+        position: absolute;
+        content: '';
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: $primary;
+        z-index: -1;
+        transform: scaleX(0);
+        transition: $transition-base;
+    }
+
+    & .box-content{
+        & .title{
+            & a{
+                font-family: $font-family-base;
+                font-size: 20px;
+                font-weight: 600;
+                color: $white;
+                text-transform: uppercase;
+                line-height: 1.5;
+                transition: $transition-base;
+
+                @media #{$desktop-device}{
+                    font-size: 16px;
+                }
+
+                @media #{$large-mobile}{
+                    font-size: 18px;
+                }
+            }
+        }
+        & p{
+            margin-top: 15px;
+            transition: $transition-base;
+        }
+    }
+    & .box-icon{
+        & i{
+            font-size: 48px;
+            line-height: 1;
+            color: $primary;
+            display: block;
+            transition: $transition-base;
+        }
+        & .more{
+            font-size: 14px;
+            font-weight: 600;
+            color: $white;
+            text-transform: uppercase;
+            display: inline-block;
+            margin-top: 35px;
+            transition: $transition-base;
+        }
+    }
+    
+    &.active{        
+        border-color: $primary;
+
+        &::before{
+            transform: scaleX(1);
+        }
+
+        & .box-content{            
+            & p{
+                color: $white;
+            }
+        }
+        & .box-icon{
+            & i{
+                color: $white;
+            }
+        }
+    }
+}
+
+// Counter Section 
+.counter-section{
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    padding-top: 70px;
+
+    @media #{$tablet-device}{
+        padding-top: 50px;
+    }
+    @media #{$large-mobile}{
+        padding-top: 30px;
+    }
+}
+
+// Counter Box 
+.counter-box{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 25px;
+
+    @media #{$large-mobile}{
+        display: block;
+    }
+    @media #{$small-mobile}{
+        display: flex;
+    }
+
+    & .counter-count{
+        & .count{
+            font-size: 50px;
+            color: $primary;
+            font-weight: 600;
+            display: inline-block;
+            line-height: 1;
+
+            @media #{$tablet-device}{
+                font-size: 30px;
+            }
+
+            @media #{$large-mobile}{
+                font-size: 40px;
+            }
+        }
+    }
+    & .counter-content{
+        padding-left: 25px;
+
+        @media #{$tablet-device}{
+            padding-left: 10px;
+        }
+        @media #{$large-mobile}{
+            padding-left: 0;
+            padding-top: 5px;
+        }
+        @media #{$small-mobile}{
+            padding-top: 0;
+            padding-left: 20px;
+        }
+
+        & p{
+            font-size: 16px;
+            text-transform: uppercase;
+            display: inline-block;
+            font-weight: 600;
+            line-height: 1.4;
+
+            @media #{$tablet-device, $large-mobile}{
+                font-size: 14px;
+            }
+        }
+    }
+}
+

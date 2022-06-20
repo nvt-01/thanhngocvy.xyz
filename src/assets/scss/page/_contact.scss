@@ -1,0 +1,186 @@
+/*--
+/*  4.13 - Contact CSS
+/*----------------------------------------*/
+
+// Contact Section 
+.contact-section{
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 145px 0 146px;
+
+    @media #{$laptop-device}{
+        padding-bottom: 106px;
+    }
+    @media #{$desktop-device}{
+        padding-bottom: 86px;
+    }
+    @media #{$tablet-device}{
+        padding-top: 180px;
+        padding-bottom: 66px;
+    }
+    @media #{$large-mobile}{
+        padding-top: 180px;
+        padding-bottom: 46px;
+    }
+
+    & .contact-bg{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 30%;
+        height: 100%;
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        @media #{$tablet-device, $large-mobile}{
+            display: none;
+        }
+
+    }
+}
+
+// Contact Section Wrapper
+.contact-section-wrapper{}
+
+// Contact Info 
+.contact-info{
+    & .mail{
+        font-size: 60px;
+        font-weight: 700;
+        font-family: $headings-font-family;
+        color: $primary;
+        display: block;
+        line-height: 1.2;
+
+        @media #{$desktop-device, $large-mobile}{
+            font-size: 40px;
+        }
+        @media #{$small-mobile}{
+            font-size: 24px;
+        }
+
+        & a{
+            &:hover{
+                color: $white;
+            }
+        }
+    }
+    & .number{
+        font-size: 36px;
+        font-weight: 700;
+        font-family: $headings-font-family;
+        color: $white;
+        display: block;
+        line-height: 1.2;
+        margin-top: 20px;
+
+        @media #{$desktop-device, $large-mobile}{
+            font-size: 30px;
+        }
+
+        @media #{$small-mobile}{
+            font-size: 20px;
+        }
+
+        & a{
+            &:hover{
+                color: $primary;
+            }
+        }
+    }
+}
+
+// Form Message 
+.form-message{
+    margin-bottom: 0;
+
+    &.error,
+    &.success {
+        font-size:16px;
+        color:$white;
+        background-color: #141414;
+        padding:10px 15px;
+        margin-left:15px;
+        margin-top:15px;
+    }
+    &.error {
+        color:red
+    }
+}
+
+
+// Contact Form 
+.contact-form{
+    padding-top: 40px;
+
+    @media #{$laptop-device, $desktop-device}{
+        padding-top: 0px;
+    }
+
+    & label.error{
+        font-size: 13px;
+        color: red;
+        margin-top: 5px;
+    }
+}
+
+// Contact Form 
+.contact-social{
+    padding-top: 80px;
+
+    @media #{$laptop-device, $desktop-device}{
+        padding-top: 40px;
+    }
+
+    & ul{
+        display: flex;
+        
+        @media #{$large-mobile}{
+            flex-wrap: wrap;
+        }
+
+        & li{
+            position: relative;
+
+            & + li{
+                &::before{
+                    content: '-';
+                    font-size: 16px;
+                    color: $white;
+                    margin: 0 10px;
+                    font-weight: 700;
+                    line-height: 1;
+                }
+            }
+
+            & a{
+                font-size: 24px;
+                font-weight: 700;
+                font-family: $headings-font-family;
+
+                @media #{$tablet-device}{
+                    font-size: 20px;
+                }
+                
+                @media #{$small-mobile}{
+                    font-size: 16px;
+                }
+
+                &.twitter{
+                    color: #00ccff;
+                }
+                &.behance{
+                    color: #0066ff;
+                }
+                &.dribbble{
+                    color: #ff0066;
+                }
+                &.github{
+                    color: #ffffff;
+                }
+            }
+        }
+    }
+}

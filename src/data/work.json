@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/work/work-1.jpg"
+        },
+        "title": "Cubic Villa",
+        "categories": ["Architecture", "Residential"]
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "./images/work/work-2.jpg"
+        },
+        "title": "OBERO",
+        "categories": ["Architecture", "Residential"]
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/work/work-3.jpg"
+        },
+        "title": "ABC Financial Bank",
+        "categories": ["Commercial", "Residential"]
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/work/work-4.jpg"
+        },
+        "title": "B6-No.5 OLA Tower",
+        "categories": ["Interior", "Commercial"]
+    }
+]
