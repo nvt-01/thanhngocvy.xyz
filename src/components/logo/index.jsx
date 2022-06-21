@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 const Logo = ({ image }) => {
     return (
         <Link to={process.env.PUBLIC_URL + "/"}>
-            <img src={process.env.PUBLIC_URL + image} alt="Andle" />
+            <img src={process.env.PUBLIC_URL + image} alt="TNV" />
         </Link>
     );
 };

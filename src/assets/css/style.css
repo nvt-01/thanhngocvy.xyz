@@ -70,6 +70,10 @@
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@700&display=swap');
+
+@import url("https://use.typekit.net/ccm0xov.css");
+
 *,
 *::before,
 *::after {
@@ -85,9 +89,10 @@
 
 body {
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "quasimoda", sans-serif;
   font-size: 0.875rem;
   font-weight: 400;
+  font-style: normal;
   line-height: 1.5;
   color: rgba(255, 255, 255, 0.75);
   background-color: #fff;
@@ -114,13 +119,17 @@ hr:not([size]) {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "Zilla Slab", serif;
+  font-family: "Hepta Slab", serif;
   font-weight: 500;
   line-height: 1.2;
 }
 
 h1, .h1 {
   font-size: calc(1.34375rem + 1.125vw);
+}
+
+h1 {
+  
 }
 
 @media (min-width: 1200px) {
@@ -170,6 +179,9 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: quasimoda, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 abbr[title],

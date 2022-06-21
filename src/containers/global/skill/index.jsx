@@ -22,18 +22,18 @@ const SkillContainer = () => {
                                 data-aos-duration="1200"
                             >
                                 <div className="single-skills-bar">
-                                    <span className="title">Web Design</span>
+                                    <span className="title">Branding</span>
 
                                     <div className="skill-bar">
                                         <div className="bar-inner">
                                             <Progress
                                                 barClassName="bar progress-line"
-                                                value="90"
+                                                value="80"
                                             >
                                                 <div className="skill-percentage">
                                                     <div className="count-box">
                                                         <span className="count-text">
-                                                            90%
+                                                            80%
                                                         </span>
                                                     </div>
                                                 </div>
@@ -43,7 +43,9 @@ const SkillContainer = () => {
                                 </div>
 
                                 <div className="single-skills-bar">
-                                    <span className="title">branding</span>
+                                    <span className="title">
+                                        Marketing Design
+                                    </span>
 
                                     <div className="skill-bar">
                                         <div className="bar-inner">
@@ -64,20 +66,18 @@ const SkillContainer = () => {
                                 </div>
 
                                 <div className="single-skills-bar">
-                                    <span className="title">
-                                        animation / motion
-                                    </span>
+                                    <span className="title">UX/UI Design</span>
 
                                     <div className="skill-bar">
                                         <div className="bar-inner">
                                             <Progress
                                                 barClassName="bar progress-line"
-                                                value="85"
+                                                value="50"
                                             >
                                                 <div className="skill-percentage">
                                                     <div className="count-box">
                                                         <span className="count-text">
-                                                            85%
+                                                            50%
                                                         </span>
                                                     </div>
                                                 </div>
