@@ -69,6 +69,37 @@ const AboutAward = () => {
                         </div>
                     </div>
                 </div>
+
+                <div className="achieved-year">
+                    <div
+                        className="row"
+                        data-aos="fade-up"
+                        data-aos-duration="1200"
+                    >
+                        <div className="col-lg-3">
+                            <div className="year-text">
+                                <p>{AboutData[0].yearThree}</p>
+                            </div>
+                        </div>
+                        <div
+                            className="col-lg-9"
+                            data-aos="fade-up"
+                            data-aos-duration="1200"
+                        >
+                            {AboutData[0].awardItem &&
+                                AboutData[0].awardItem
+                                    .slice(3, 5)
+                                    .map((single, key) => {
+                                        return (
+                                            <AwardItem
+                                                key={key}
+                                                data={single}
+                                            />
+                                        );
+                                    })}
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     );

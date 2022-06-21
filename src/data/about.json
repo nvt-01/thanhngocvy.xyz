@@ -2,44 +2,28 @@
     {
         "id": "Experiences",
         "title": "Work Experiences",
-        "yearOne": "2020",
-        "yearTwo": "2019",
+        "yearOne": "Sep 2020 - Dec 2021",
+        "yearTwo": "July - Aug 2020",
+        "yearThree": "May - Aug 2020",
         "awardItem": [
             {
                 "id": 1,
-                "className": "text-primary",
-                "cate": "Awwwards",
-                "title": "Site Of The Years for <span>Norda Landing Site</span>"
+                "className": "text-warning",
+                "cate": "Graphic Designer and Graphic Assistant Developer",
+                "title": "Centre for Media and Development Initiatives (MDI)</br><span>Vietnam – NGO</span>"
             },
             {
                 "id": 2,
-                "className": "text-danger",
-                "cate": "CSS Design Award",
-                "title": "Honorable Mention for <span>Barbero Stream Music App</span>"
+                "className": "text-warning",
+                "cate": "Graphic Designer",
+                "title": "The State Radio Broadcaster of Vietnam</br><span>Voice Of Vietnam</span>"
             },
             {
                 "id": 3,
-                "className": "text-success",
-                "cate": "Product Hunt Maker",
-                "title": "Gold In Digital Craft for <span>Uthr</span>"
-            },
-            {
-                "id": 4,
-                "className": "text-white",
-                "cate": "Fwa",
-                "title": "Coporate Social Responsiblity for <span>Unore</span>"
-            },
-            {
-                "id": 5,
                 "className": "text-warning",
-                "cate": "Semplice",
-                "title": "Best Showcase for <span>Nordic</span>"
+                "cate": "Graphic Designer",
+                "title": "Vietnam Office</br><span>QIQ Singapore Pte Ltd</span>"
             }
         ]
-    },
-    {
-        "id": "AboutContent",
-        "title": "<span>Hallo!</span> I am Nordan, <br> Interactive Developer based <br> in Ukraine.",
-        "excerpt": "See bits and pieces of his design work and prototyping on"
     }
 ]
