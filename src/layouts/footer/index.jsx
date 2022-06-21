@@ -5,14 +5,16 @@ const Footer = () => {
                 <div className="footer-info-box text-center">
                     <h4 className="title">Let’s work together</h4>
                     <h2 className="mail">
-                        <a href="mailto:someone@example.com">hello@andle.com</a>
+                        <a href="mailto:hello@thanhngocvy.xyz">
+                            hello@thanhngocvy.xyz
+                        </a>
                     </h2>
                 </div>
 
                 <div className="footer-copyright-social">
                     <div className="footer-copyright">
                         <p>
-                            &copy; 2021 <span> Andle</span> Made with{" "}
+                            &copy; 2022 <span> Ngoc Vy Thanh</span> Made with{" "}
                             <i className="icofont-heart" aria-hidden="true"></i>{" "}
                             by{" "}
                             <a
