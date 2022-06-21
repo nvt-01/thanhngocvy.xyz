@@ -10,7 +10,7 @@ const ProjectPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Project" />
+                <SEO title="Thanh Ngoc Vy - Project" />
                 <div className="main-wrapper">
                     <Header />
                     <ProjectContainer />

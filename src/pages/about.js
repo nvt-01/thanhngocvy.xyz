@@ -12,7 +12,7 @@ const AboutPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - About Us" />
+                <SEO title="Thanh Ngoc Vy - About" />
                 <div className="main-wrapper">
                     <Header />
                     <HomeAbout />

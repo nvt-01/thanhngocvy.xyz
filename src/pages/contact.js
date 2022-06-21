@@ -9,7 +9,7 @@ const ContactPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Contact Us" />
+                <SEO title="Thanh Ngoc VY - Contact" />
                 <div className="main-wrapper">
                     <Header />
                     <ContactContainer />

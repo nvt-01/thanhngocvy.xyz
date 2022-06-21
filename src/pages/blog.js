@@ -10,7 +10,7 @@ const BlogPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Blog" />
+                <SEO title="Thanh Ngoc Vy - Blog" />
                 <div className="main-wrapper">
                     <Header />
                     <BlogContainer />

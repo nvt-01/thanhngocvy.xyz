@@ -13,7 +13,7 @@ const PricingPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Pricing" />
+                <SEO title="Thanh Nogc Vy - Pricing" />
                 <div className="main-wrapper">
                     <Header />
                     <PricingBannerContainer />
