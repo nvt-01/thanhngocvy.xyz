@@ -17,33 +17,31 @@ const HomeAbout = () => {
                     >
                         <div className="col-lg-6">
                             <div className="about-content">
-                                <h3 className="title">Andle Brewster</h3>
+                                <h3 className="title">Thanh Ngoc Vy</h3>
                                 <p className="about-text">
-                                    Founded in Lebanon in 1967, Archo
-                                    Architecture Company (KCC) has grown to
-                                    become one of the Middle East`s leading
-                                    construction contractors.
+                                    Thanh Ngoc Vy is a 21-year-old student at
+                                    British University Vietnam.
                                 </p>
                                 <p>
-                                    We specialise in complex and prestigious
-                                    construction and infrastruc <br /> <br />{" "}
-                                    ture projects. Our portfolio includes some
-                                    of the region’s most iconic landmarks, from
-                                    super high-rise luxury developments, to five
-                                    star hotels, hospitals and intricately
-                                    sophisticated smart buildings.{" "}
+                                    She is a creative practitioner, who likes to
+                                    work with design and solve problems. She
+                                    orients herself to be a designer specific in
+                                    designing logos, branding, packaging,
+                                    advertising, designing for campaigns, and so
+                                    on…
                                 </p>
                                 <p>
-                                    We have compiled an extensive list of other
-                                    area clinics and health resources, so that
-                                    when someone calls
+                                    She is curious, fascinated by people and
+                                    things, and always keeps herself busy. She
+                                    cares about social issues like the
+                                    environment or human rights.
                                 </p>
                                 <img
                                     className="signechar"
                                     src="./images/signechar.png"
                                     alt=""
                                 />
-                                <h6 className="name">Daniel Jr</h6>
+                                <h6 className="name">Thanh Ngoc Vy</h6>
                             </div>
                         </div>
                     </div>
