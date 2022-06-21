@@ -16,13 +16,13 @@ const ContactContainer = () => {
                         <div className="contact-section-wrapper">
                             <div className="contact-info" data-aos="fade-up">
                                 <span className="mail">
-                                    <a href="mailto:someone@example.com">
-                                        hello@andle.com
+                                    <a href="mailto:hello@thanhngocvy.xyz">
+                                        hello@thanhngocvy.xyz
                                     </a>
                                 </span>
                                 <span className="number">
-                                    <a href="tel:+012345678900">
-                                        (+012) 345 67 89 00
+                                    <a href="tel:(+84) 936 193 048">
+                                        (+84) 936 193 048
                                     </a>
                                 </span>
                             </div>

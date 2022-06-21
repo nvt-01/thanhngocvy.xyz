@@ -9,7 +9,7 @@ const AboutAward = () => {
             <div className="container">
                 <SectionTitle
                     classOption="section-title-2"
-                    title="award achieved"
+                    title="word experiences"
                 />
 
                 <div className="achieved-year">
