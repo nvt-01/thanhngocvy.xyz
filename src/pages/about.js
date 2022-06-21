@@ -8,6 +8,7 @@ import SkillContainer from "../containers/global/skill";
 import Layout from "../layouts";
 import Footer from "../layouts/footer";
 import Header from "../layouts/header";
+import HomeAbout from "../containers/home/about";
 
 const AboutPage = () => {
     return (
@@ -16,8 +17,7 @@ const AboutPage = () => {
                 <SEO title="Andle - About Us" />
                 <div className="main-wrapper">
                     <Header />
-                    <AboutBannerContainer />
-                    <BrandTwoContainer />
+                    <HomeAbout />
                     <AboutAward />
                     <SkillContainer />
                     <Footer />
