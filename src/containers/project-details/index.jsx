@@ -113,30 +113,6 @@ const ProjectDetailsContainer = ({ data }) => {
                     />
                 </div>
 
-                <div className="details-social" data-aos="fade-up">
-                    <h5 className="details-label">Share on social</h5>
-                    <ul className="social">
-                        <li>
-                            <SocialIcon
-                                icon="icofont-twitter"
-                                path="https://twitter.com/"
-                            />
-                        </li>
-                        <li>
-                            <SocialIcon
-                                icon="icofont-facebook"
-                                path="https://facebook.com/"
-                            />
-                        </li>
-                        <li>
-                            <SocialIcon
-                                icon="icofont-google-plus"
-                                path="https://myaccount.google.com/"
-                            />
-                        </li>
-                    </ul>
-                </div>
-
                 <div className="reservation-form-wrapper section-padding-02 section-padding-03">
                     <h3
                         className="title"
