@@ -7,13 +7,14 @@
 // About Section
 .about-section{ 
     background-image: url("https://i.ibb.co/Mh9Ys53/IMG-8084.jpg");
-    background-size: 100%;
+    background-size: 110%;
     background-color: #E0E4F1;
     position: relative;
 }
 
 // About Content 
 .about-content{
+    padding: 45px;
     bottom: 0;
     left: 0;
     & .title {
@@ -30,7 +31,7 @@
     & .about-text{
         font-family: quasimoda,sans-serif;
         font-style: normal;
-        font-size: 20px;
+        font-size: 27px;
         line-height: 1.6;
         margin-top: 36px;
 
@@ -42,6 +43,7 @@
         font-family: quasimoda,sans-serif;
         color: #1D243D;
         margin-bottom: 25px;
+        font-size: 18px;
     }
     & .signechar{
         padding-top: 20px;
