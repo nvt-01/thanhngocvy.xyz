@@ -3,16 +3,9 @@ import { useEffect } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HomePage from "./pages/index";
 import AboutPage from "./pages/about";
-import PricingPage from "./pages/pricing";
 import ContactPage from "./pages/contact";
 import ProjectPage from "./pages/project";
 import ProjectDetails from "./templates/project-details";
-import BlogDetails from "./templates/blog-details";
-import BlogCategory from "./templates/blog-category";
-import BlogDate from "./templates/blog-date";
-import BlogAuthor from "./templates/blog-author";
-import BlogTag from "./templates/blog-tag";
-import BlogPage from "./pages/blog";
 //CSS File Here
 import "./assets/css/plugins/fontawesome.min.css";
 import "./assets/css/plugins/icofont.min.css";
