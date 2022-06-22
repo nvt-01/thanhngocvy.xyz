@@ -40,10 +40,6 @@ const App = () => {
                         component={AboutPage}
                     />
                     <Route
-                        path={`${process.env.PUBLIC_URL + "/pricing"}`}
-                        component={PricingPage}
-                    />
-                    <Route
                         path={`${process.env.PUBLIC_URL + "/project"}`}
                         component={ProjectPage}
                     />
@@ -52,30 +48,6 @@ const App = () => {
                             process.env.PUBLIC_URL + "/project-detalis/:id"
                         }`}
                         component={ProjectDetails}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/blog"}`}
-                        component={BlogPage}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/blog-details/:id"}`}
-                        component={BlogDetails}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/category/:slug"}`}
-                        component={BlogCategory}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/date/:date"}`}
-                        component={BlogDate}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/author/:author"}`}
-                        component={BlogAuthor}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/tag/:slug"}`}
-                        component={BlogTag}
                     />
                     <Route
                         path={`${process.env.PUBLIC_URL + "/contact"}`}
