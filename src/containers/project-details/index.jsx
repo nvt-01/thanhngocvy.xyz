@@ -30,51 +30,6 @@ const ProjectDetailsContainer = ({ data }) => {
                     <h1 className="title">{data.title}</h1>
                 </div>
 
-                <div className="details-info section-padding mt-n10">
-                    <div
-                        className="row"
-                        data-aos="fade-up"
-                        data-aos-duration="1200"
-                    >
-                        <div className="col-lg-3">
-                            <div className="single-info">
-                                <h5 className="details-label">the challenge</h5>
-                                <p
-                                    dangerouslySetInnerHTML={{
-                                        __html: data.challenge,
-                                    }}
-                                ></p>
-                            </div>
-                        </div>
-                        <div className="col-lg-3">
-                            <div className="single-info">
-                                <h5 className="details-label">Date</h5>
-                                <p
-                                    dangerouslySetInnerHTML={{
-                                        __html: data.date,
-                                    }}
-                                ></p>
-                            </div>
-                        </div>
-                        <div className="col-lg-3">
-                            <div className="single-info">
-                                <h5 className="details-label">team</h5>
-                                <p
-                                    dangerouslySetInnerHTML={{
-                                        __html: data.team,
-                                    }}
-                                ></p>
-                            </div>
-                        </div>
-                        <div className="col-lg-3">
-                            <div className="single-info">
-                                <h5 className="details-label">Service</h5>
-                                <p>{data.service}</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
                 <div
                     className="details-middle-content section-padding-02 mt-n2"
                     data-aos="fade-up"

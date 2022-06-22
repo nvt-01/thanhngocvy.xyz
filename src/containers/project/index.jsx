@@ -17,7 +17,7 @@ const ProjectContainer = () => {
     return (
         <div className="section section-padding-03">
             <div className="container">
-                <PageTitle title="Latest Projects" />
+                <PageTitle title="My Projects" />
                 <div
                     className="messonry-button"
                     data-aos="fade-up"
