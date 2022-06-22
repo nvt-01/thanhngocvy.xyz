@@ -57,14 +57,14 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #89715b;
-  --bs-secondary: #6c757d;
+  --bs-primary: #1D243D;
+  --bs-secondary: #C6CAEB;
   --bs-success: #f58344;
   --bs-info: #0dcaf0;
   --bs-warning: #feae01;
   --bs-danger: #da2929;
-  --bs-light: #f8f9fa;
-  --bs-dark: #090909;
+  --bs-light: #E0E4F1;
+  --bs-dark: #1D243D;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
@@ -119,17 +119,13 @@ hr:not([size]) {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "Hepta Slab", serif;
+  font-family: "Zilla Slab", serif;
   font-weight: 500;
   line-height: 1.2;
 }
 
 h1, .h1 {
   font-size: calc(1.34375rem + 1.125vw);
-}
-
-h1 {
-  
 }
 
 @media (min-width: 1200px) {

@@ -23,7 +23,7 @@
             }
 
             &::before{
-                position: absolute;
+                position: relative;
                 content: '';
                 background: $black;
                 top: 0;

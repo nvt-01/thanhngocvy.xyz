@@ -4,7 +4,7 @@
 
 // Header 
 .header{
-    padding: 53px 0;
+    padding: 10px;
     transition: $transition-base;
 
     @media #{$large-mobile}{
@@ -12,7 +12,7 @@
     }
 
     &.sticky{
-        padding: 25px 0;
+        padding: auto;
         background-color: #E0E4F1;
 
         @media #{$large-mobile}{
@@ -29,7 +29,9 @@
 }
 
 // Logo Box 
-.logo-box{}
+.logo-box{
+    max-width: 7%;
+}
 
 // Header Menu Toggler 
 .header-menu-toggler{
@@ -108,6 +110,8 @@
                 border-bottom: 1px solid rgba($black, 0.10);
                 
                 & a{
+                    font-family: quasimoda,sans-serif;
+                    font-style: normal;
                     position: relative;
                     display: block;
                     line-height: 24px;

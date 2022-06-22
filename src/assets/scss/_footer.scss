@@ -2,7 +2,7 @@
 /*  06. Footer CSS
 /*----------------------------------------*/
 
-// Footer Info Box 
+// Footer Info Box
 .footer-info-box{
     padding: 275px 0 195px; 
 
@@ -27,10 +27,11 @@
     }
 
     & .title{
+        text-align: center;
         font-size: 24px;
-        font-family: $custom-font-family;
-        font-weight: 400;
-        color: rgba($white, 0.5);
+        font-family: 'Hepta Slab', serif;
+        font-weight: 200;
+        color: #C6CAEB;
 
         @media #{$large-mobile}{
             font-size: 20px;
@@ -40,10 +41,12 @@
         }
     }
     & .mail{
+        text-align: center;
         & a{
+            font-family: 'Hepta Slab', serif;
             font-size: 60px;
             font-weight: 700;
-            color: $primary;
+            color: #E0E4F1;
             margin-top: 10px;
             display: inline-block;
             transition: $transition-base;
@@ -57,7 +60,7 @@
             }
 
             &:hover{
-                color: $white;
+                color: #C6CAEB;
             }
         }
     }
@@ -66,6 +69,9 @@
 
 // Footer Copyright & Social 
 .footer-copyright-social{
+    font-family: quasimoda,sans-serif;
+    font-weight: 600;
+    font-style: normal;
     display: flex;
     justify-content: space-between;
     padding-bottom: 70px;
@@ -121,11 +127,11 @@
                 }
                 
 
-                &.twitter{
-                    color: #00ccff;
+                &.facebook{
+                    color: #E0E4F1;
                 }
                 &.behance{
-                    color: #0066ff;
+                    color: #E0E4F1;
                 }
                 &.dribbble{
                     color: #ff0066;

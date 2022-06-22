@@ -4,37 +4,11 @@
 /*  4.2 - Clients & About CSS
 /*----------------------------------------*/
 
-// Client Section 
-.client-section{
-    position: relative;
-    z-index: 2;
-}
-
-
-.client-wrapper{
-    padding: 75px 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-
-    @media #{$tablet-device}{
-        padding: 55px 0;
-    }
-    @media #{$large-mobile}{
-        padding: 35px 0;
-    }
-
-    & .image-box{
-        opacity: 0.5;
-        transition: $transition-base;
-
-        &:hover{
-            opacity: 1;
-        }
-    }
-}
-
-
-// About Section 
-.about-section{
+// About Section
+.about-section{ 
+    background-image: url("https://i.ibb.co/Mh9Ys53/IMG-8084.jpg");
+    background-size: 100%;
+    background-color: #E0E4F1;
     position: relative;
 }
 
@@ -42,12 +16,11 @@
 .about-content{
     bottom: 0;
     left: 0;
-    position: relative;
     & .title {
         font-family: 'Hepta Slab', serif;
         font-size: 48px;
         font-weight: 700;
-        color: $primary;
+        color: #1D243D;
         text-transform: uppercase;
 
         @media #{$small-mobile}{
@@ -67,7 +40,7 @@
     }
     & p{
         font-family: quasimoda,sans-serif;
-        color: $white;
+        color: #1D243D;
         margin-bottom: 25px;
     }
     & .signechar{
@@ -78,7 +51,7 @@
         font-size: 14px;
         font-weight: 600;
         font-family: $font-family-base;
-        color: $white;
+        color: #1D243D;
         text-transform: uppercase;
         margin-top: 15px;
     }
@@ -88,7 +61,7 @@
 .about-images{
     position: absolute;
     bottom: 0;
-    left: 0;
+    right: 0;
     width: 70%;
     height: 100%;
     background-size: contain;
@@ -112,210 +85,3 @@
         height: 323px;
     }
 }
-
-// About banner 
-.about-banner-section{
-    position: relative;
-    
-    & .social{
-        position: absolute;
-        bottom: 70px;
-        left: 70px;
-        z-index: 6;
-
-        @media #{$laptop-device, $desktop-device, $tablet-device, $large-mobile}{
-            left: 40px;
-            bottom: 40px;
-        }
-        @media #{$large-mobile}{
-            display: flex;
-        }
-
-        @media #{$small-mobile}{
-            left: 20px;
-            bottom: 20px;
-        }
-
-        & li{
-            & + li{
-                margin-top: 15px;
-
-                @media #{$large-mobile}{
-                    margin-top: 0px;
-                    margin-left: 20px;
-                }
-            }
-            & a{
-                font-size: 18px;
-                color: $white;
-                transition: $transition-base;
-
-                &:hover{
-                    color: $primary;
-                }
-            }
-        }
-    }
-}
-
-// About banner 
-.about-banner{
-    height: 820px;
-    z-index: 3;
-    background-color: #070707;
-    position: relative;
-
-    @media #{$extraBig-device}{
-        height: 965px;
-    }
-
-    @media #{$large-mobile}{
-        height: 720px;
-    }
-    @media #{$small-mobile}{
-        height: 680px;
-    }
-}
-
-// About banner Images
-.about-banner-image{
-    position: absolute;
-    bottom:  0;
-    right: 0;
-    width: 55%;
-    text-align: left;
-    z-index: -1;
-
-    @media #{$large-mobile}{
-        display: none;
-    }
-}
-
-// About banner Content
-.about-banner-content{
-    & .banner-title{
-        font-size: 60px;
-        font-weight: 700;
-        color: $white;
-
-        & span{
-            color: $primary;
-        }
-
-        @media #{$laptop-device}{
-            font-size: 50px;
-        }
-        @media #{$desktop-device}{
-            font-size: 42px;
-        }
-        @media #{$tablet-device, $large-mobile}{
-            font-size: 38px;
-        }
-        @media #{$small-mobile}{
-            font-size: 24px;
-
-            & br{
-                display: none;
-            }
-        }
-    }
-    & .banner-social{
-        padding-top: 55px;
-
-        @media #{$laptop-device}{
-            padding-top: 45px;
-        }
-        @media #{$desktop-device}{
-            padding-top: 35px;
-        }
-
-        @media #{$tablet-device, $large-mobile}{
-            padding-top: 25px;
-        }
-
-        & p{
-            margin-bottom: 2px;
-        }
-        & ul{
-            display: flex;
-            
-            @media #{$large-mobile}{
-                flex-wrap: wrap;
-            }
-    
-            & li{
-                position: relative;
-
-                & + li{
-                    &::before{
-                        content: '-';
-                        font-size: 16px;
-                        color: $white;
-                        margin: 0 10px;
-                        font-weight: 700;
-                        line-height: 1;
-                    }
-                }
-    
-                & a{
-                    font-size: 24px;
-                    font-weight: 700;
-                    font-family: $headings-font-family;
-    
-                    @media #{$tablet-device}{
-                        font-size: 20px;
-                    }
-                    
-                    @media #{$small-mobile}{
-                        font-size: 16px;
-                    }
-
-                    &.twitter{
-                        color: #00ccff;
-                    }
-                    &.behance{
-                        color: #0066ff;
-                    }
-                    &.dribbble{
-                        color: #ff0066;
-                    }
-                    &.github{
-                        color: #ffffff;
-                    }
-                }
-            }
-        }
-    }
-    & .banner-service{
-        padding-top: 60px;
-
-        @media #{$laptop-device}{
-            padding-top: 50px;
-        }
-        @media #{$desktop-device}{
-            padding-top: 40px;
-        }
-
-        @media #{$tablet-device, $large-mobile}{
-            padding-top: 30px;
-        }
-
-        & .service-text{
-            margin-top: 20px;
-
-            & span{
-                font-size: 24px;
-                font-weight: 700;
-                font-family: $headings-font-family;
-                color: $white;
-
-                @media #{$small-mobile}{
-                    & br{
-                        display: none;
-                    }
-                }
-            }
-        }
-    }
-}
-

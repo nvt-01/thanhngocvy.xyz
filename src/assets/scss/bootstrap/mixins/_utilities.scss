@@ -47,11 +47,6 @@
       @if $is-rtl == false {
         /* rtl:begin:remove */
       }
-      .#{$property-class + $infix + $property-class-modifier} {
-        @each $property in $properties {
-          #{$property}: $value if($enable-important-utilities, !important, null);
-        }
-      }
 
       @each $pseudo in $state {
         .#{$property-class + $infix + $property-class-modifier}-#{$pseudo}:#{$pseudo} {

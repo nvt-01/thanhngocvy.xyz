@@ -19,28 +19,30 @@
     margin-top: 30px;
 
     & p{
-        font-family: $custom-font-family;
+        font-family: 'Hepta Slab', serif;
         font-size: 18px;
         font-weight: 400;
-        color: $white;
+        color: $light;
     }
 }
 
 // Achieved Item 
 .achieved-item{
+    
     margin-top: 30px;
 
     & .sub-title{
-        font-family: $custom-font-family;
+        font-family: 'Hepta Slab', serif;
         font-size: 18px;
-        font-weight: 400;
-        color: $body-color;
+        font-weight: 200;
+        color: $secondary;
 
         @media #{$small-mobile}{
             font-size: 14px;
         }
     }
     & .title{
+        font-family: 'Hepta Slab', serif;
         font-size: 36px;
         font-weight: 700;
         color: rgba($white, .5);
@@ -51,10 +53,10 @@
         }
 
         & span{
-            color: $white;
+            color: $light;
         }
         &:hover{
-            color: $white;
+            color: $light;
         }
     }
 }

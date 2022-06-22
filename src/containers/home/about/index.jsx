@@ -40,12 +40,6 @@ const HomeAbout = () => {
                             </div>
                         </div>
                     </div>
-                    <div
-                        className="about-images"
-                        style={{
-                            backgroundImage: `url(${process.env.PUBLIC_URL}/images/about-images.png)`,
-                        }}
-                    ></div>
                 </div>
             </div>
         </div>

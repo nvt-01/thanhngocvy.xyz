@@ -1,3 +1,5 @@
+
+
 /*--
 /*  4.7 - Skills CSS
 /*----------------------------------------*/
@@ -30,11 +32,11 @@
 
     & .title{
         font-size: 14px;
-        font-family: $custom-font-family;
+        font-family: 'Hepta Slab', serif;
         text-transform: uppercase;
         margin-bottom: 10px;
         display: inline-block;
-        color: $white;
+        color: #E0E4F1;
     }
     
     & .skill-bar{
@@ -46,7 +48,7 @@
             position: relative;
             width: 100%;
             height: 14px;
-            background: $white;
+            background: #E0E4F1;
             .progress{
                 height: 14px;
                 border-radius: 0;
@@ -67,7 +69,7 @@
                     top: -35px;
                     float: right;
                     font-weight: 400;
-                    color: $white;
+                    color: #E0E4F1;
                     font-size: 16px;
                     text-transform: uppercase;
                 }

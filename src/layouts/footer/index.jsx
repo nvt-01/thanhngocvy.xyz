@@ -23,8 +23,8 @@ const Footer = () => {
                                 <a
                                     rel="noopener noreferrer"
                                     target="_blank"
-                                    className="twitter"
-                                    href="https://twitter.com/"
+                                    className="facebook"
+                                    href="https://www.facebook.com/ngocvy.thanh"
                                 >
                                     Facebook
                                 </a>
@@ -34,19 +34,9 @@ const Footer = () => {
                                     rel="noopener noreferrer"
                                     target="_blank"
                                     className="behance"
-                                    href="https://www.behance.net/"
+                                    href="https://www.behance.net/ngcvythnh"
                                 >
                                     Behance
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    rel="noopener noreferrer"
-                                    target="_blank"
-                                    className="dribbble"
-                                    href="https://dribbble.com/"
-                                >
-                                    Dribbble
                                 </a>
                             </li>
                         </ul>

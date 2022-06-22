@@ -19,7 +19,8 @@
 
 /*-- Google Font --*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&family=Zilla+Slab:wght@400;500;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@700&display=swap');
+@import url("https://use.typekit.net/ccm0xov.css");
 
 /*-- Common Style --*/
 *,
@@ -72,7 +73,7 @@ ul,ol{
 }
 
 img{
-    max-width: 20%;
+    max-width: 100%;
 }
 
 // Main Wrapper 
@@ -108,6 +109,7 @@ img{
 /* Section Style */
 .section,
 .main-wrapper {
+    background-color: #1D243D;
     float: left;
     width: 100%;
 }
@@ -190,7 +192,7 @@ img{
     & .title{
         font-size: 14px;
         font-weight: 400;
-        font-family: $custom-font-family;
+        font-family: 'Hepta Slab', serif;
         color: $body-color;
         text-transform: uppercase;
     }
