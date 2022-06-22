@@ -6,7 +6,7 @@ const HomeAbout = () => {
             <div className="about-section section-padding mt-n3 mb-n1">
                 <div className="container">
                     <div
-                        className="row justify-content-end"
+                        className="row justify-content-start"
                         data-aos="fade-up"
                         data-aos-duration="1200"
                     >
