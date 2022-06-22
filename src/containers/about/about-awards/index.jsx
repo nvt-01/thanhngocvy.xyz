@@ -26,7 +26,7 @@ const AboutAward = () => {
                         <div className="col-lg-9">
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(0, 3)
+                                    .slice(0, 1)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem
@@ -57,7 +57,7 @@ const AboutAward = () => {
                         >
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(3, 5)
+                                    .slice(1, 2)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem
@@ -88,7 +88,7 @@ const AboutAward = () => {
                         >
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(3, 5)
+                                    .slice(2, 3)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem

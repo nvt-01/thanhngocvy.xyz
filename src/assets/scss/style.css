@@ -71,6 +71,10 @@
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@700&display=swap');
+
+@import url("https://use.typekit.net/ccm0xov.css");
+
 *,
 *::before,
 *::after {
@@ -85,7 +89,7 @@
 
 body {
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Hepta Slab", "serif";
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1548,8 +1552,9 @@ progress {
   }
 
   .col-lg-6 {
-    flex: 0 0 auto;
-    width: 50%;
+    flex: 0 0 0;
+    width: 200%;
+    height: 200%;
   }
 
   .col-lg-7 {

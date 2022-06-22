@@ -1,14 +1,9 @@
+import { Autoplay } from "swiper";
+
 const HomeAbout = () => {
     return (
         <div className="section bg-dark overflow-hidden">
             <div className="about-section section-padding mt-n3 mb-n1">
-                <div
-                    className="about-images"
-                    style={{
-                        backgroundImage: `url(${process.env.PUBLIC_URL}/images/about-images.png)`,
-                    }}
-                ></div>
-
                 <div className="container">
                     <div
                         className="row justify-content-end"
@@ -45,6 +40,12 @@ const HomeAbout = () => {
                             </div>
                         </div>
                     </div>
+                    <div
+                        className="about-images"
+                        style={{
+                            backgroundImage: `url(${process.env.PUBLIC_URL}/images/about-images.png)`,
+                        }}
+                    ></div>
                 </div>
             </div>
         </div>
