@@ -53,94 +53,9 @@ const HamburgerMenu = ({ show, onClose }) => {
                             </NavLink>
                         </li>
                         <li>
-                            <NavLink to={process.env.PUBLIC_URL + "/about"}>
-                                About
-                            </NavLink>
-
-                            <span
-                                className="mobile-menu-expand"
-                                onClick={onClickHandler}
-                                aria-hidden="true"
-                            ></span>
-
-                            <ul className="sub-menu">
-                                <li>
-                                    <NavLink
-                                        to={process.env.PUBLIC_URL + "/about"}
-                                    >
-                                        About Us
-                                    </NavLink>
-                                </li>
-                                <li>
-                                    <NavLink
-                                        to={process.env.PUBLIC_URL + "/pricing"}
-                                    >
-                                        Pricing
-                                    </NavLink>
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
                             <NavLink to={process.env.PUBLIC_URL + "/project"}>
                                 Project
                             </NavLink>
-
-                            <span
-                                className="mobile-menu-expand"
-                                onClick={onClickHandler}
-                                aria-hidden="true"
-                            ></span>
-
-                            <ul className="sub-menu">
-                                <li>
-                                    <NavLink
-                                        to={process.env.PUBLIC_URL + "/project"}
-                                    >
-                                        Projects
-                                    </NavLink>
-                                </li>
-                                <li>
-                                    <NavLink
-                                        to={
-                                            process.env.PUBLIC_URL +
-                                            "/project-detalis/1"
-                                        }
-                                    >
-                                        Project Details
-                                    </NavLink>
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <NavLink to={process.env.PUBLIC_URL + "/blog"}>
-                                Blog
-                            </NavLink>
-
-                            <span
-                                className="mobile-menu-expand"
-                                onClick={onClickHandler}
-                                aria-hidden="true"
-                            ></span>
-
-                            <ul className="sub-menu">
-                                <li>
-                                    <NavLink
-                                        to={process.env.PUBLIC_URL + "/blog"}
-                                    >
-                                        Blog
-                                    </NavLink>
-                                </li>
-                                <li>
-                                    <NavLink
-                                        to={
-                                            process.env.PUBLIC_URL +
-                                            "/blog-details/1"
-                                        }
-                                    >
-                                        Blog Details
-                                    </NavLink>
-                                </li>
-                            </ul>
                         </li>
                         <li>
                             <NavLink to={process.env.PUBLIC_URL + "/contact"}>

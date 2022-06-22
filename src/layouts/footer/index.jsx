@@ -14,16 +14,7 @@ const Footer = () => {
                 <div className="footer-copyright-social">
                     <div className="footer-copyright">
                         <p>
-                            &copy; 2022 <span> Ngoc Vy Thanh</span> Made with{" "}
-                            <i className="icofont-heart" aria-hidden="true"></i>{" "}
-                            by{" "}
-                            <a
-                                href="https://hasthemes.com/"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                HasThemes
-                            </a>
+                            &copy; 2022 <span> Ngoc Vy Thanh</span>
                         </p>
                     </div>
                     <div className="footer-social">
@@ -35,7 +26,7 @@ const Footer = () => {
                                     className="twitter"
                                     href="https://twitter.com/"
                                 >
-                                    Twitter
+                                    Facebook
                                 </a>
                             </li>
                             <li>
@@ -56,16 +47,6 @@ const Footer = () => {
                                     href="https://dribbble.com/"
                                 >
                                     Dribbble
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    rel="noopener noreferrer"
-                                    target="_blank"
-                                    className="github"
-                                    href="https://github.com/"
-                                >
-                                    Github
                                 </a>
                             </li>
                         </ul>
