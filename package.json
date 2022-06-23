@@ -2,12 +2,11 @@
   "name": "react-eslint-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nvt-01.github.io/thanhngocvy.xyz/",
+  "homepage": "https://thanhngocvy.xyz/",
   "dependencies": {
     "aos": "^2.3.4",
     "bootstrap": "^5.1.3",
     "disqus-react": "^1.0.11",
-    "gh-pages": "^4.0.0",
     "imagesloaded": "^4.1.4",
     "isotope-layout": "^3.0.6",
     "postcss-custom-properties": "^10.0.0",
