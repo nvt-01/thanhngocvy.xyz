@@ -13,10 +13,7 @@ const Footer = () => {
 
                 <div className="footer-copyright-social">
                     <div className="footer-copyright">
-                        <p>
-                            &copy; 2022{" "}
-                            <span className="footer-title"> Ngoc Vy Thanh</span>
-                        </p>
+                        <p>&copy; 2022 Ngoc Vy Thanh</p>
                     </div>
                     <div className="footer-social">
                         <ul className="social">

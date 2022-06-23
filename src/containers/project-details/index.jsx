@@ -6,12 +6,27 @@ import ProjectForm from "../../components/project-form";
 const ProjectDetailsContainer = ({ data }) => {
     return (
         <div className="section project-details-section">
+            <div className="project-details-body">
+                <h2 className="title">{data.subTitle}</h2>
+                {data.body.map((value, i) => {
+                    return (
+                        <div
+                            key={i}
+                            className="body"
+                            dangerouslySetInnerHTML={{
+                                __html: value,
+                            }}
+                        />
+                    );
+                })}
+            </div>
+
             <div
                 className="container"
                 data-aos="fade-up"
                 data-aos-duration="1200"
             >
-                <div className="details-images section-padding-01 mt-n2">
+                <div className="details-images section-padding-02 mt-n2">
                     <img
                         src={`${process.env.PUBLIC_URL}/${data.gallery.imageThree}`}
                         alt="Project Details"

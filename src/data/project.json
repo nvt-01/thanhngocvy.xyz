@@ -4,7 +4,7 @@
         "media": {
             "thumb": "./images/project/project-1.jpg"
         },
-        "title": "Portfolio Book",
+        "title": "Personal Branding",
         "categories": ["Graphic Design"],
         "body": [],
         "gallery": {
@@ -18,7 +18,7 @@
         },
         "title": "Think Outside The Climate Change Box",
         "categories": ["Graphic Design", "Editorial"],
-        "body": [],
+        "body": ["<b>Editorial Design</b><br><br><b>Climate Change Guidebook</b><br>The catalogue’s name is “THINK OUTSIDE THE CLIMATE CHANGE BOOK”. In this book, I point out eight things people may misunderstand about climate change, so I decided to choose this name. It means that we should change our perceptions and stereotypes that are wrong about the climate crisis. We should think outside the box, take responsibility, and act on climate change because every small action matters. We should change our minds, change our behaviors and attitudes toward this global issue.<br><br><b>Project Purpose</b><br>Student project for Practical Contemporary Practice module in 3rd year at British University Vietnam<br><br><b>Year</b><br>2022"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-6.jpg"
         }
@@ -30,7 +30,7 @@
         },
         "title": "MAMO",
         "categories": ["UX/UI", "Branding"],
-        "body": [],
+        "body": ["<p><b>MAMO - Vehicle Rental App</b><br>This project was designed and developed to help everyone rent a vehicle easily. Renting a vehicle is the best way to explore a new city is to get in the driver’s seat and enjoy some mem- orable rides. But renting a car can be expensive and difficult with all the complicated processes. That’s why MAMO is the perfect solution for travelers looking to explore a new city on their own terms. This app provides cars, bikes, and motorbikes that are available around the clock at affordable prices without any of the hassle.<br></p><br><b>Project Purpose</b><br>Student project for Major Project for Art Practitioners module in 2rd year at British University Vietnam<br><br><b>Year</b><br>2021"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-9.jpg"
         }
@@ -42,7 +42,7 @@
         },
         "title": "SIZERO",
         "categories": ["Branding", "Graphic Design"],
-        "body": [],
+        "body": ["<p><b>Editorial Design</b><br><br><b>Climate Change Guidebook</b><br></p>The catalogue’s name is “THINK OUTSIDE THE CLIMATE CHANGE BOOK”. In this book, I point out eight things people may misunderstand about climate change, so I decided to choose this name. It means that we should change our perceptions and stereotypes that are wrong about the climate crisis. We should think outside the box, take responsibility, and act on climate change because every small action matters. We should change our minds, change our behaviors and attitudes toward this global issue.<br><br><b>Project Purpose</b><br>Student project for Practical Contemporary Practice module in 3rd year at British University Vietnam<br><br><b>Year</b><br>2022"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-12.jpg"
         }
@@ -54,7 +54,7 @@
         },
         "title": "QIQ Vietnam",
         "categories": ["Advertising Design"],
-        "body":[],
+        "body":["<p><b>Editorial Design</b><br><br><b>Climate Change Guidebook</b><br></p>The catalogue’s name is “THINK OUTSIDE THE CLIMATE CHANGE BOOK”. In this book, I point out eight things people may misunderstand about climate change, so I decided to choose this name. It means that we should change our perceptions and stereotypes that are wrong about the climate crisis. We should think outside the box, take responsibility, and act on climate change because every small action matters. We should change our minds, change our behaviors and attitudes toward this global issue.<br><br><b>Project Purpose</b><br>Student project for Practical Contemporary Practice module in 3rd year at British University Vietnam<br><br><b>Year</b>: 2022"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-15.jpg"
         }
@@ -66,7 +66,7 @@
         },
         "title": "The Glamor Club",
         "categories": ["Branding"],
-        "body": [],
+        "body": ["<p><b>Editorial Design</b><br><br><b>Climate Change Guidebook</b><br></p>The catalogue’s name is “THINK OUTSIDE THE CLIMATE CHANGE BOOK”. In this book, I point out eight things people may misunderstand about climate change, so I decided to choose this name. It means that we should change our perceptions and stereotypes that are wrong about the climate crisis. We should think outside the box, take responsibility, and act on climate change because every small action matters. We should change our minds, change our behaviors and attitudes toward this global issue.<br><br><b>Project Purpose</b><br>Student project for Practical Contemporary Practice module in 3rd year at British University Vietnam<br><br><b>Year</b>: 2022"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-18.jpg"
         }
@@ -78,7 +78,7 @@
         },
         "title": "The Lucilé",
         "categories": ["Graphic Design"],
-        "body": [],
+        "body": ["<p><b>Editorial Design</b><br><br><b>Climate Change Guidebook</b><br></p>The catalogue’s name is “THINK OUTSIDE THE CLIMATE CHANGE BOOK”. In this book, I point out eight things people may misunderstand about climate change, so I decided to choose this name. It means that we should change our perceptions and stereotypes that are wrong about the climate crisis. We should think outside the box, take responsibility, and act on climate change because every small action matters. We should change our minds, change our behaviors and attitudes toward this global issue.<br><br><b>Project Purpose</b><br>Student project for Practical Contemporary Practice module in 3rd year at British University Vietnam<br><br><b>Year</b>: 2022"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-21.jpg"
         }
