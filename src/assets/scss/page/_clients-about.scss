@@ -6,9 +6,10 @@
 
 // About Section
 .about-section{ 
-    background-image: url("https://i.ibb.co/Mh9Ys53/IMG-8084.jpg");
-    background-size: 100%;
+    background-image: url("./about-images.svg");
+    background-size: cover;
     background-color: #E0E4F1;
+    background-repeat: no-repeat;
     position: relative;
 }
 

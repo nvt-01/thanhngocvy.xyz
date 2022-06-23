@@ -18,7 +18,7 @@ const BlogDetails = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Blog Details" />
+                <SEO title="Thanh Ngoc Vy - Blog Details" />
                 <div className="main-wrapper">
                     <Header />
                     <BlogDetailsContainer data={data[0]} />
