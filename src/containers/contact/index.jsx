@@ -3,16 +3,9 @@ import ContactForm from "../../components/contact-form";
 const ContactContainer = () => {
     return (
         <div className="section contact-section bg-dark">
-            <div
-                className="contact-bg"
-                style={{
-                    backgroundImage: `url(${process.env.PUBLIC_URL}/images/contact-bg.jpg)`,
-                }}
-            ></div>
-
             <div className="container">
-                <div className="row justify-content-end">
-                    <div className="col-lg-7">
+                <div className="row justify-content-start">
+                    <div className="col-lg-12">
                         <div className="contact-section-wrapper">
                             <div className="contact-info" data-aos="fade-up">
                                 <span className="mail">
@@ -45,10 +38,10 @@ const ContactContainer = () => {
                                         <a
                                             rel="noopener noreferrer"
                                             target="_blank"
-                                            className="dribbble"
-                                            href="https://dribbble.com/"
+                                            className="behance"
+                                            href="https://www.facebook.com/ngocvy.thanh"
                                         >
-                                            Dribbble
+                                            Facebook
                                         </a>
                                     </li>
                                     <li>
@@ -56,19 +49,9 @@ const ContactContainer = () => {
                                             rel="noopener noreferrer"
                                             target="_blank"
                                             className="behance"
-                                            href="https://www.behance.net/"
+                                            href="https://www.behance.net/ngcvythnh"
                                         >
                                             Behance
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            rel="noopener noreferrer"
-                                            target="_blank"
-                                            className="twitter"
-                                            href="https://twitter.com/"
-                                        >
-                                            Twitter
                                         </a>
                                     </li>
                                 </ul>

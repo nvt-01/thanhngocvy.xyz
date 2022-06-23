@@ -4,7 +4,7 @@
 
 // Footer Info Box
 .footer-info-box{
-    padding: 275px 0 195px; 
+    padding: 275px 0 195px;
 
     @media #{$desktop-device}{
         padding-top: 230px;
@@ -31,7 +31,8 @@
         font-size: 24px;
         font-family: 'Hepta Slab', serif;
         font-weight: 200;
-        color: #C6CAEB;
+        color: #1D243D;
+        opacity: 50%;
 
         @media #{$large-mobile}{
             font-size: 20px;
@@ -46,7 +47,7 @@
             font-family: 'Hepta Slab', serif;
             font-size: 60px;
             font-weight: 700;
-            color: #E0E4F1;
+            color: #1D243D;
             margin-top: 10px;
             display: inline-block;
             transition: $transition-base;
@@ -60,7 +61,7 @@
             }
 
             &:hover{
-                color: #C6CAEB;
+                color: #E0E4F1;
             }
         }
     }
@@ -88,7 +89,8 @@
     padding-bottom: 20px;
     
     & span{
-        color: $white;
+        color: #1D243D;
+        opacity: 50%;
     }
     & i{
         color: $red;
@@ -128,16 +130,10 @@
                 
 
                 &.facebook{
-                    color: #E0E4F1;
+                    color: #1D243D;
                 }
                 &.behance{
-                    color: #E0E4F1;
-                }
-                &.dribbble{
-                    color: #ff0066;
-                }
-                &.github{
-                    color: #ffffff;
+                    color: #1D243D;
                 }
             }
         }

@@ -8,21 +8,21 @@
         "awardItem": [
             {
                 "id": 1,
-                "className": "text-warning",
+                "className": "text-white",
                 "cate": "Graphic Designer and Graphic Assistant Developer",
-                "title": "Centre for Media and Development Initiatives (MDI)</br><span>Vietnam – NGO</span>"
+                "title": "Centre for Media and Development Initiatives (MDI), Vietnam – NGO"
             },
             {
                 "id": 2,
-                "className": "text-warning",
+                "className": "text-white",
                 "cate": "Graphic Designer",
-                "title": "The State Radio Broadcaster of Vietnam</br><span>Voice Of Vietnam</span>"
+                "title": "Voice Of Vietnam - The State Radio Broadcaster of Vietnam"
             },
             {
                 "id": 3,
-                "className": "text-warning",
+                "className": "text-white",
                 "cate": "Graphic Designer",
-                "title": "Vietnam Office</br><span>QIQ Singapore Pte Ltd</span>"
+                "title": "QIQ Singapore Pte Ltd - Vietnam Office"
             }
         ]
     }

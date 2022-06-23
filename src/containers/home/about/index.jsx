@@ -10,12 +10,12 @@ const HomeAbout = () => {
                         data-aos="fade-up"
                         data-aos-duration="1200"
                     >
-                        <div className="col-lg-6">
+                        <div className="col-lg-7">
                             <div className="about-content">
                                 <h3 className="title">Thanh Ngoc Vy</h3>
                                 <p className="about-text">
-                                    Thanh Ngoc Vy is a 21-year-old student at
-                                    British University Vietnam.
+                                    A 21-year-old student at British University
+                                    Vietnam.
                                 </p>
                                 <p>
                                     She is a creative practitioner, who likes to

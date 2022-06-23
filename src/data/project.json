@@ -2,136 +2,157 @@
     {
         "id": 1,
         "media": {
-            "thumb": "./images/project/project-1.jpg",
-            "image": "./images/project-details/project-details-1.jpg"
+            "thumb": "./images/project/project-1.jpg"
         },
-        "title": "SIZERO",
-        "categories": ["Branding", "Graphic Design"],
+        "title": "Portfolio Book",
+        "categories": ["Graphic Design"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-2.jpg",
             "imageThree": "./images/project-details/dec-images-3.jpg"
         }
     },
     {
         "id": 2,
         "media": {
-            "thumb": "./images/project/project-2.jpg",
-            "image": "./images/project-details/project-details-2.jpg"
+            "thumb": "./images/project/project-2.jpg"
         },
-        "title": "Think Outside",
-        "categories": ["Graphic Design"],
+        "title": "Think Outside The Climate Change Box",
+        "categories": ["Graphic Design", "Editorial"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-4.jpg",
-            "imageTwo": "./images/project-details/dec-images-5.jpg",
             "imageThree": "./images/project-details/dec-images-6.jpg"
         }
     },
     {
         "id": 3,
         "media": {
-            "thumb": "./images/project/project-3.jpg",
-            "image": "./images/project-details/project-details-3.jpg"
+            "thumb": "./images/project/project-3.jpg"
         },
         "title": "MAMO",
         "categories": ["UX/UI", "Branding"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-7.jpg",
-            "imageTwo": "./images/project-details/dec-images-8.jpg",
             "imageThree": "./images/project-details/dec-images-9.jpg"
         }
     },
     {
         "id": 4,
         "media": {
-            "thumb": "./images/project/project-4.jpg",
-            "image": "./images/project-details/project-details-4.jpg"
+            "thumb": "./images/project/project-4.jpg"
         },
-        "title": "All My Love Is Gone",
-        "categories": ["T-Shirt Design"],
-        "body":[],
+        "title": "SIZERO",
+        "categories": ["Branding", "Graphic Design"],
+        "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-10.jpg",
-            "imageTwo": "./images/project-details/dec-images-11.jpg",
             "imageThree": "./images/project-details/dec-images-12.jpg"
         }
     },
     {
         "id": 5,
         "media": {
-            "thumb": "images/project/project-5.jpg",
-            "image": "./images/project-details/project-details-5.jpg"
+            "thumb": "./images/project/project-5.jpg"
         },
-        "title": "HANOI",
-        "categories": ["Typeface Design"],
-        "body": [],
+        "title": "QIQ Vietnam",
+        "categories": ["Advertising Design"],
+        "body":[],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-13.jpg",
-            "imageTwo": "./images/project-details/dec-images-14.jpg",
             "imageThree": "./images/project-details/dec-images-15.jpg"
         }
     },
     {
         "id": 6,
         "media": {
-            "thumb": "./images/project/project-6.jpg",
-            "image": "./images/project-details/project-details-6.jpg"
+            "thumb": "images/project/project-6.jpg"
         },
-        "title": "QIQ",
-        "categories": ["Graphic Design"],
+        "title": "The Glamor Club",
+        "categories": ["Branding"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-16.jpg",
-            "imageTwo": "./images/project-details/dec-images-17.jpg",
             "imageThree": "./images/project-details/dec-images-18.jpg"
         }
     },
     {
         "id": 7,
         "media": {
-            "thumb": "./images/project/project-7.jpg",
-            "image": "./images/project-details/project-details-7.jpg"
+            "thumb": "./images/project/project-7.jpg"
         },
-        "title": "Vietnesia 2021",
-        "categories": ["UX/UI", "Branding"],
+        "title": "The Lucilé",
+        "categories": ["Graphic Design"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-19.jpg",
-            "imageTwo": "./images/project-details/dec-images-20.jpg",
             "imageThree": "./images/project-details/dec-images-21.jpg"
         }
     },
     {
         "id": 8,
         "media": {
-            "thumb": "./images/project/project-8.jpg",
-            "image": "./images/project-details/project-details-8.jpg"
+            "thumb": "./images/project/project-8.jpg"
         },
-        "title": "Investigate Earth",
-        "categories": ["Illustation"],
+        "title": "Pre-COP26",
+        "categories": ["Social Media Design"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-22.jpg",
-            "imageTwo": "./images/project-details/dec-images-23.jpg",
             "imageThree": "./images/project-details/dec-images-24.jpg"
         }
     },
     {
         "id": 9,
         "media": {
-            "thumb": "./images/project/project-9.jpg",
-            "image": "./images/project-details/project-details-9.jpg"
+            "thumb": "./images/project/project-9.jpg"
         },
-        "title": "The Lucile",
-        "categories": ["Branding"],
+        "title": "Investigate Earth",
+        "categories": ["Illustation"],
         "body": [],
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-25.jpg",
-            "imageTwo": "./images/project-details/dec-images-26.jpg",
             "imageThree": "./images/project-details/dec-images-27.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "media": {
+            "thumb": "./images/project/project-10.jpg"
+        },
+        "title": "All My Love Is Gone",
+        "categories": ["Fashion Design"],
+        "body": [],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-30.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "media": {
+            "thumb": "./images/project/project-11.jpg"
+        },
+        "title": "Lặng",
+        "categories": ["Typeface Design"],
+        "body": [],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-33.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "media": {
+            "thumb": "./images/project/project-12.png"
+        },
+        "title": "Bia Saigon",
+        "categories": ["Packaging Design"],
+        "body": [],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-36.jpg"
+        }
+    },
+    {
+        "id": 13,
+        "media": {
+            "thumb": "./images/project/project-13.jpg"
+        },
+        "title": "Vietnesia 2021",
+        "categories": ["Documentation Design"],
+        "body": [],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-39.png"
         }
     }
 ]
