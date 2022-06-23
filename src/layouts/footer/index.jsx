@@ -3,7 +3,7 @@ const Footer = () => {
         <div className="section bg-dark">
             <div className="footer-container">
                 <div className="footer-info-box text-center">
-                    <h4 className="title">Let’s work together</h4>
+                    <h4 className="footer-title">Let’s work together</h4>
                     <h2 className="mail">
                         <a href="mailto:hello@thanhngocvy.xyz">
                             hello@thanhngocvy.xyz
@@ -14,7 +14,8 @@ const Footer = () => {
                 <div className="footer-copyright-social">
                     <div className="footer-copyright">
                         <p>
-                            &copy; 2022 <span> Ngoc Vy Thanh</span>
+                            &copy; 2022{" "}
+                            <span className="footer-title"> Ngoc Vy Thanh</span>
                         </p>
                     </div>
                     <div className="footer-social">
