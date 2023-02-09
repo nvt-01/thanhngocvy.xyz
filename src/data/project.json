@@ -32,7 +32,7 @@
         "categories": ["UX/UI", "Branding"],
         "body": ["<b>MAMO - Vehicle Rental App</b><br>This project was designed and developed to help everyone rent a vehicle easily. Renting a vehicle is the best way to explore a new city is to get in the driver’s seat and enjoy some mem- orable rides. But renting a car can be expensive and difficult with all the complicated processes. That’s why MAMO is the perfect solution for travelers looking to explore a new city on their own terms. This app provides cars, bikes, and motorbikes that are available around the clock at affordable prices without any of the hassle.<br><br><b>Project Purpose</b><br>Student project for Major Project for Art Practitioners module in 2rd year at British University Vietnam<br><br><b>Year</b><br>2021"],
         "gallery": {
-            "imageThree": "./images/project-details/dec-images-9.jpg"
+            "imageThree": "./images/project-details/dec-images-9.png"
         }
     },
     {
@@ -124,9 +124,9 @@
         "media": {
             "thumb": "./images/project/project-11.jpg"
         },
-        "title": "Lặng",
-        "categories": ["Typeface Design"],
-        "body": ["<b>“Lặng” typeface</b><br>I made a typeface called “Lang” in my second year at British University Vietnam. This typeface was inspired by Hanoi’s beauty in architecture.<br><br><b>Project Purpose</b><br>Student project at British University Vietnam<br><br><b>Year</b><br>2021"],
+        "title": "La Fragance",
+        "categories": ["Packaging Design"],
+        "body": ["<b>Packaging Design for Premium Candles Shop</b><br>I was involved in the packaging design process for the premium candle brand, La Fragance, during my time at Catbox.<br><br><b>Year</b><br>2022"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-33.jpg"
         }
@@ -136,9 +136,9 @@
         "media": {
             "thumb": "./images/project/project-12.png"
         },
-        "title": "Bia Saigon",
-        "categories": ["Packaging Design"],
-        "body": ["<b>Redesign Bia Saigon’s package for a campaign: “Tet from home”</b><br>This is the can design I did for a campaign my friend came up with. This is her task at school, she had to make a marketing plan for a campaign for any brand and she chose Bia Saigon.<br><br><b>Client</b><br>Bao Chau Nguyen<br><br><b>Year</b><br>2022"],
+        "title": "Kimochill Cafe",
+        "categories": ["Graphic Design"],
+        "body": ["<b>Coffee Shop </b><br>Here are some marketing and printed artworks I designed for a local coffee shop.<br><br><b>Client</b><br>Kimochill Cafe<br><br><b>Year</b><br>2022 & 2023"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-36.png"
         }
@@ -148,11 +148,11 @@
         "media": {
             "thumb": "./images/project/project-13.jpg"
         },
-        "title": "Vietnesia 2021",
-        "categories": ["Documentation Design"],
-        "body": ["<b>Sponsorship proposal design</b><br>I designed this Sponsorship proposal for a campaign from my university's students.<br><br><b>Partner</b><br>Vietnam - 1810EM<br><br><b>Year</b><br>2021"],
+        "title": "Bybit",
+        "categories": ["Marketing Design"],
+        "body": ["<b>Campaign Key Visual and Marketing Design</b><br>I started learning and investing in cryptocurrency, which led me to an opportunity to work at Bybit. Currently, I am a Graphic Designer for the Vietnam and Malaysia markets.<br><br><b>Partner</b><br>Bybit Vietnam & Malaysia<br><br><b>Year</b><br>2022 & 2023"],
         "gallery": {
-            "imageThree": "./images/project-details/dec-images-39.jpg"
+            "imageThree": "./images/project-details/dec-images-39.png"
         }
     }
 ]

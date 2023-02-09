@@ -14,16 +14,15 @@ const HomeAbout = () => {
                             <div className="about-content">
                                 <h3 className="title">Thanh Ngoc Vy</h3>
                                 <p className="about-text">
-                                    A 21-year-old student at British University
-                                    Vietnam.
+                                    A creative practitioner.
                                 </p>
                                 <p>
-                                    She is a creative practitioner, who likes to
-                                    work with design and solve problems. She
-                                    orients herself to be a designer specific in
-                                    designing logos, branding, packaging,
-                                    advertising, designing for campaigns, and so
-                                    on…
+                                    She graduated from British University
+                                    Vietnam in 2022 and is currently working as
+                                    a freelance designer. She orients herself to
+                                    be a designer specific in designing logos,
+                                    branding, packaging, advertising, designing
+                                    for campaigns, and so on…
                                 </p>
                                 <p>
                                     She is curious, fascinated by people and
