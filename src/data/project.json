@@ -1,5 +1,41 @@
 [
     {
+        "id": 5,
+        "media": {
+            "thumb": "./images/project/project-13.jpg"
+        },
+        "title": "Bybit",
+        "categories": ["Marketing Design"],
+        "body": ["<b>Campaign Key Visual and Marketing Design</b><br>I started learning and investing in cryptocurrency, which led me to an opportunity to work at Bybit. Currently, I am a Graphic Designer for the Vietnam and Malaysia markets.<br><br><b>Partner</b><br>Bybit Vietnam & Malaysia<br><br><b>Year</b><br>2022 & 2023"],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-39.png"
+        }
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/project/project-12.png"
+        },
+        "title": "Kimochill Cafe",
+        "categories": ["Graphic Design"],
+        "body": ["<b>Coffee Shop </b><br>Here are some marketing and printed artworks I designed for a local coffee shop.<br><br><b>Client</b><br>Kimochill Cafe<br><br><b>Year</b><br>2022 & 2023"],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-36.png"
+        }
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/project/project-11.jpg"
+        },
+        "title": "La Fragance",
+        "categories": ["Packaging Design"],
+        "body": ["<b>Packaging Design for Premium Candles Shop</b><br>I was involved in the packaging design process for the premium candle brand, La Fragance, during my time at Catbox.<br><br><b>Year</b><br>2022"],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-33.jpg"
+        }
+    },
+    {
         "id": 1,
         "media": {
             "thumb": "./images/project/project-2.jpg"
@@ -21,42 +57,6 @@
         "body": ["<b>MAMO - Vehicle Rental App</b><br>This project was designed and developed to help everyone rent a vehicle easily. Renting a vehicle is the best way to explore a new city is to get in the driver’s seat and enjoy some mem- orable rides. But renting a car can be expensive and difficult with all the complicated processes. That’s why MAMO is the perfect solution for travelers looking to explore a new city on their own terms. This app provides cars, bikes, and motorbikes that are available around the clock at affordable prices without any of the hassle.<br><br><b>Project Purpose</b><br>Student project for Major Project for Art Practitioners module in 2rd year at British University Vietnam<br><br><b>Year</b><br>2021"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-9.png"
-        }
-    },
-    {
-        "id": 3,
-        "media": {
-            "thumb": "./images/project/project-11.jpg"
-        },
-        "title": "La Fragance",
-        "categories": ["Packaging Design"],
-        "body": ["<b>Packaging Design for Premium Candles Shop</b><br>I was involved in the packaging design process for the premium candle brand, La Fragance, during my time at Catbox.<br><br><b>Year</b><br>2022"],
-        "gallery": {
-            "imageThree": "./images/project-details/dec-images-33.jpg"
-        }
-    },
-    {
-        "id": 4,
-        "media": {
-            "thumb": "./images/project/project-12.png"
-        },
-        "title": "Kimochill Cafe",
-        "categories": ["Graphic Design"],
-        "body": ["<b>Coffee Shop </b><br>Here are some marketing and printed artworks I designed for a local coffee shop.<br><br><b>Client</b><br>Kimochill Cafe<br><br><b>Year</b><br>2022 & 2023"],
-        "gallery": {
-            "imageThree": "./images/project-details/dec-images-36.png"
-        }
-    },
-    {
-        "id": 5,
-        "media": {
-            "thumb": "./images/project/project-13.jpg"
-        },
-        "title": "Bybit",
-        "categories": ["Marketing Design"],
-        "body": ["<b>Campaign Key Visual and Marketing Design</b><br>I started learning and investing in cryptocurrency, which led me to an opportunity to work at Bybit. Currently, I am a Graphic Designer for the Vietnam and Malaysia markets.<br><br><b>Partner</b><br>Bybit Vietnam & Malaysia<br><br><b>Year</b><br>2022 & 2023"],
-        "gallery": {
-            "imageThree": "./images/project-details/dec-images-39.png"
         }
     },
     {
