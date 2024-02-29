@@ -17,18 +17,24 @@ const HomeAbout = () => {
                                     A creative practitioner.
                                 </p>
                                 <p>
-                                    She graduated from British University
-                                    Vietnam in 2022 and is currently working as
-                                    a freelance designer. She orients herself to
-                                    be a designer specific in designing logos,
-                                    branding, packaging, advertising, designing
-                                    for campaigns, and so on…
+                                    Driven by a passion for design and
+                                    creativity, I graduated with honors from the
+                                    British University Vietnam (BUV) with a
+                                    degree in Contemporary Creative Arts. I have
+                                    4 years of experience in design across
+                                    various fields.
                                 </p>
                                 <p>
-                                    She is curious, fascinated by people and
-                                    things, and always keeps herself busy. She
-                                    cares about social issues like the
-                                    environment or human rights.
+                                    I manage nmy team effectively, researching
+                                    and understanding the latest trends in the
+                                    creative field. With a strong foundation in
+                                    specialized knowledge of logo design, brand
+                                    identity, and media design, along with
+                                    proficient English skills and sound
+                                    marketing - branding thinking, I know that
+                                    the Creative team is the most effective in
+                                    communicating a brand&apos;s uniqueness and
+                                    prominence.
                                 </p>
                                 <img
                                     className="signechar"
