@@ -12,7 +12,9 @@
     "editor.rulers": [80],
     "editor.tabSize": 4,
     "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
     "eslint.validate": ["react", "html", "javascript"],
     "debug.node.autoAttach": "on"
 }

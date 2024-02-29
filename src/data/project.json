@@ -137,7 +137,7 @@
             "thumb": "./images/project/project-9.jpg"
         },
         "title": "Investigate Earth",
-        "categories": ["Illustation"],
+        "categories": ["Illustration"],
         "body": ["<b>Illustration for an article</b><br>I designed this Illustration for an Article: “Traffickers v. Covid-19” in Investigate Earth’s website.<br><br><b>Client</b><br>Investigate Earth<br><br><b>Year</b><br>2021"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-27.jpg"
@@ -153,6 +153,18 @@
         "body": ["<b>“Gone” - T-shirt</b><br>I designed these T-shirts when my favorite singer released a song called “Gone”. She wrote the lyrics for two years, and I really like the lyrics, so I decided to design some T-shirts inspired by the lyrics to practice my skills.<br><br><b>Year</b><br>2021"],
         "gallery": {
             "imageThree": "./images/project-details/dec-images-30.png"
+        }
+    },
+    {
+        "id": 14,
+        "media": {
+            "thumb": "./images/project/project-89.jpg"
+        },
+        "title": "Customer Experience Innovation",
+        "categories": ["Branding"],
+        "body": ["<b>“Gone” - T-shirt</b><br>I designed these T-shirts when my favorite singer released a song called “Gone”. She wrote the lyrics for two years, and I really like the lyrics, so I decided to design some T-shirts inspired by the lyrics to practice my skills.<br><br><b>Year</b><br>2021"],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-89.png"
         }
     }
 ]
