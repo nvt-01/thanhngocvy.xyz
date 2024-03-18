@@ -25,7 +25,7 @@ const HomeAbout = () => {
                                     various fields.
                                 </p>
                                 <p>
-                                    I manage nmy team effectively, researching
+                                    I manage my team effectively, researching
                                     and understanding the latest trends in the
                                     creative field. With a strong foundation in
                                     specialized knowledge of logo design, brand
