@@ -31,6 +31,14 @@ const ProjectDetailsContainer = ({ data }) => {
                         src={`${process.env.PUBLIC_URL}/${data.gallery.imageThree}`}
                         alt="Project Details"
                     />
+                    <img
+                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageFour}`}
+                        alt="Project Details"
+                    />
+                    <img
+                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageFive}`}
+                        alt="Project Details"
+                    />
                 </div>
 
                 <div className="reservation-form-wrapper section-padding-02 section-padding-03">

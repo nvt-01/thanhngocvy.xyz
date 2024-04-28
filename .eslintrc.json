@@ -27,6 +27,12 @@
     },
     "plugins": ["react", "react-hooks", "prettier", "jsx-a11y"],
     "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+              "endOfLine": "auto"
+            }
+          ],
         "react/react-in-jsx-scope": "off",
         "react/require-default-props": 0,
         "react-hooks/rules-of-hooks": "error",
