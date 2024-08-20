@@ -1,0 +1,14 @@
+{
+        "id": 15,
+        "media": {
+            "thumb": "./images/project/project-99.gif"
+        },
+        "title": "AMI PRESCHOOL",
+        "categories": ["Branding"],
+        "body": ["<b>AMI PRESCHOOL</b><br>AMI is a premium international preschool system in Vietnam that aims to be the first preschool network to focus on children's emotional intelligence development.<br>We have assisted them in their rebranding efforts with this new identity, which is based on their core values and the modern, fresh, and continuously innovative spirit of AMI.<br><br><b>Year</b><br>2024"],
+        "gallery": {
+            "imageThree": "./images/project-details/dec-images-99-02.png",
+            "imageFour": "./images/project-details/dec-images-99-03.png",
+            "imageFive": "./images/project-details/dec-images-99-04.png"
+        }
+    },
