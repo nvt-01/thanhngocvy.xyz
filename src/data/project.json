@@ -8,7 +8,9 @@
         "categories": ["Branding"],
         "body": ["<b>LAN HAIR</b><br>Lan Hair was founded in 2012 by Founder Ngọc Lan Trần. After 12 years of operation, through the passion and relentless efforts of the Founder and the team, Lan Hair salon has become one of the renowned salons in Hanoi and the northern region. In 2024, Lan Hair Center approached us with the desire to rebrand and refresh its identity.<br><br><b>Year</b><br>2024"],
         "gallery": {
-            "imageThree": "./images/project-details/lanhair.png"
+            "imageThree": "./images/project-details/lanhair1.png",
+            "imageFour": "./images/project-details/lanhair2.png",
+            "imageFive": "./images/project-details/lanhair3.png"
         }
     },
     {
@@ -46,7 +48,9 @@
         "categories": ["Branding"],
         "body": ["<b>Hệ Thống Nhà Thiocoslll</b><br>Việt Bảo – safeguarding the health of the Vietnamese community. The brand was established with the desire to protect the health of the Vietnamese people through the dedicated and knowledgeable consultation of a team of experienced pharmacists.<br><br>I developed the brand identity based on Việt Bảo’s core values, which include dedication, professionalism, and a commitment to community health. Việt Bảo's logo combines a heart shape with a cross symbol placed at the center, representing the pharmaceutical field that the brand serves.<br><br><b>Year</b><br>2023 - 2024"],
         "gallery": {
-            "imageThree": "./images/project-details/vietbao.jpg"
+            "imageThree": "./images/project-details/vietbao1.png",
+            "imageFour": "./images/project-details/vietbao2.png",
+            "imageFive": "./images/project-details/vietbao3.png"
         }
     },
     {
